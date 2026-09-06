@@ -66,8 +66,10 @@ The objective of this project is to transform retail sales data into an interact
 ## 📷 Dashboard Preview
 
 ### Overview
-<img width="957" height="542" alt="image" src="https://github.com/user-attachments/assets/d218bff9-c521-4849-aeba-9e1db35e5980" />
+<img width="1277" height="714" alt="image" src="https://github.com/user-attachments/assets/4dea93e1-1a70-4177-aafa-6ac95652f5c3" />
+
 
 
 ### Time Series Analysis
-![Time Series Analysis](screenshots/time-series-analysis.png)
+<img width="1277" height="713" alt="image" src="https://github.com/user-attachments/assets/161a3037-c2f5-42b6-b915-1027cc4e197e" />
+
